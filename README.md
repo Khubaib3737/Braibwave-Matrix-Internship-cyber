@@ -72,8 +72,11 @@ You can type:
 
 Make sure `urls.txt` contains one URL per line, like:
 http://example.com
+
 http://login-secure.paypal.com
+
 https://www.google.com
+
 http://192.168.0.1/login
 
 
