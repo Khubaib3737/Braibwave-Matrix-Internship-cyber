@@ -71,6 +71,7 @@ You can type:
 `urls.txt`
 
 Make sure `urls.txt` contains one URL per line, like:
+
 http://example.com
 
 http://login-secure.paypal.com
