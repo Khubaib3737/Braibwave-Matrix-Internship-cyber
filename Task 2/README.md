@@ -25,14 +25,16 @@ No additional libraries are required (uses only Python standard library).
 
 ```bash
 python malware_detector.py
-
+```
 
 You will be prompted to enter the path of the file to scan:
+```bash
 == 🦠 Malware Detection Script ==
 Enter file path to scan: /path/to/your/file.exe
-
+```
 
 The script will analyze the file and print a scan report like this:
+```bash
 ================= 🦠 Malware Scan Report =================
 📄 File: /path/to/your/file.exe
 ===========================================================
@@ -46,3 +48,4 @@ The script will analyze the file and print a scan report like this:
 ===========================================================
 🏁 Final Verdict: 🚨 Malware detected!
 ===========================================================
+```
